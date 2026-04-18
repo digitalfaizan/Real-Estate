@@ -471,6 +471,10 @@ ul li a:hover{
     display: block;
 }
 
+.ph-no{
+    color:var(--primary);
+}
+
         @media (max-width:768px){
             .footer-grid{
                 grid-template-columns:  1fr;
